@@ -1,1 +1,2 @@
 # Event-Management-Website
+Event Management Website: A responsive and interactive website designed to manage and explore events. Features include a sliding navigation menu, dynamic search bar toggles, and a modern, user-friendly interface. Technologies used include HTML, CSS, and JavaScript. Future enhancements could include dynamic event listings, user authentication, and event management functionalities.
